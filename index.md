@@ -82,6 +82,7 @@ Cancel button and preserve previous jframe state. Keep on mind that the previous
 
 
 Spanish dni validator
+
     public boolean checkDNI() {
  
         boolean esValido = false;
